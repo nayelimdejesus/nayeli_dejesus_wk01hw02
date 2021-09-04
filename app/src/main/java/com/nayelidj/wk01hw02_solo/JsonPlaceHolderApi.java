@@ -1,4 +1,4 @@
-package com.nayelidj.wk01hw02_solo.api;
+package com.nayelidj.wk01hw02_solo;
 
 import com.nayelidj.wk01hw02_solo.Post;
 
